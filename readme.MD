@@ -9,7 +9,8 @@ The release version for plugin is [here](https://www.npmjs.com/package/react-nat
 
 ## Getting started
 [English](./en/setup.md)
+<br/>
 [中文](./zh-cn/setup.md)
 
 ## Api List
-[here](./en/api.md)
+[Click Here](./en/api.md)
